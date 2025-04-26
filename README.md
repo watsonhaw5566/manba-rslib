@@ -28,7 +28,7 @@ pnpm install @wdcjs/manba
 
 ## npm
 
-[https://www.npmjs.com/package/manba](https://www.npmjs.com/package/manba)
+[https://www.npmjs.com/package/@wdcjs/manba](https://www.npmjs.com/package/@wdcjs/manba)
 
 ## Api
 
